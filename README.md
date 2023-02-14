@@ -2,7 +2,7 @@
 
 This repository contains 3D models for Rhino Robots.
 
-
+For the [xr2_arduino_mount](https://www.youtube.com/watch?v=4HOXKobwqGA), you'll want to replace the eight existing socket caps (the hex bolts) with slightly longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps are used with this design. I have no affiliation with Bolt Depot.
 
 ## Rhino Robots
 

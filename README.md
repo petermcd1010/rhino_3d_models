@@ -2,7 +2,11 @@
 
 This repository contains 3D models for Rhino Robots.
 
-For the [xr2_arduino_mount](https://www.youtube.com/watch?v=4HOXKobwqGA), you'll want to replace the eight existing socket caps (the hex bolts) with slightly longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps are used with this design. I have no affiliation with Bolt Depot.
+Available models:
+- [Arduino MM6 wire clamp](:arduino_mm6_wire_clamp.png) [Blender](:arduino_mm6_wire_clamp.blend) [Plug stl](:arduino_mm6_wire_clamp_plug.stl) [Arches stl](:arduino_mm6_wire_clamp_arches.stl)
+- [XR2 Arduino mount](:xr2_arduino_mount.png) [Blender](:xr2_arduino_mount.blend) [stl](:xr2_arduino_mount.stl)
+
+For the [XR2 Arduino Mount](https://www.youtube.com/watch?v=4HOXKobwqGA), you'll want to replace the eight existing socket caps (the hex bolts) with slightly longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps are used with this design. I have no affiliation with Bolt Depot.
 
 ## Rhino Robots
 

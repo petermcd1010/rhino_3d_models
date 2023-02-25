@@ -8,7 +8,7 @@ This repository contains 3D models for Rhino Robots. They are free for any and a
 
 ![Blender .blend](arduino_mm6_wire_clamp.blend), ![plug .stl](arduino_mm6_wire_clamp_plug.stl), ![arches .stl](arduino_mm6_wire_clamp_arches.stl), [YouTube video](https://www.youtube.com/watch?v=22EeDbbwtAY)
 
-This clamp comes in two parts: A plug that holds the wire ribbon cables into their sockets and a set of arches that clamp the plug to the MM6 PCB. A channel runs between the plug and the arches to route the ribbon cables out to the back of the board. Print three for each MM6 PCB. No fasteners required.
+This clamp comes in two parts: A plug that holds the motor ribbon cables into their sockets and a set of arches that clamp this plug to the MM6 PCB. A channel runs between the plug and the arches to nicely route the ribbon cables out to the back of the board. Print three for each MM6 PCB. No fasteners required.
 
 ### XR2 Arduino Mount
 

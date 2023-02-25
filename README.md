@@ -6,7 +6,7 @@ This repository contains 3D models for Rhino Robots. They are free for any and a
 
 ![Arduino MM6 wire clamp](arduino_mm6_wire_clamp.png)
 
-![Blender .blend](arduino_mm6_wire_clamp.blend), ![plug .stl](arduino_mm6_wire_clamp_plug.stl), ![arches .stl](arduino_mm6_wire_clamp_arches.stl), ![YouTube video](https://www.youtube.com/watch?v=22EeDbbwtAY)
+![Blender .blend](arduino_mm6_wire_clamp.blend), ![plug .stl](arduino_mm6_wire_clamp_plug.stl), ![arches .stl](arduino_mm6_wire_clamp_arches.stl), [YouTube video](https://www.youtube.com/watch?v=22EeDbbwtAY)
 
 This clamp comes in two parts: A plug that holds the wire ribbon cables into their sockets and a set of arches that clamp the plug to the MM6 PCB. A channel runs between the plug and the arches to route the ribbon cables out to the back of the board. Print three for each MM6 PCB. No fasteners required.
 
@@ -14,7 +14,7 @@ This clamp comes in two parts: A plug that holds the wire ribbon cables into the
 
 ![XR2 Arduino mount](xr2_arduino_mount.png)
 
-![Blender .blend](xr2_arduino_mount.blend), ![.stl](xr2_arduino_mount.stl), ![YouTube video](https://www.youtube.com/watch?v=4HOXKobwqGA)
+![Blender .blend](xr2_arduino_mount.blend), ![.stl](xr2_arduino_mount.stl), [YouTube video](https://www.youtube.com/watch?v=4HOXKobwqGA)
 
 For the XR2 Arduino Mount, you'll want to replace the eight existing socket caps (the hex bolts) with slightly longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps are used with this design. I have no affiliation with Bolt Depot.
 

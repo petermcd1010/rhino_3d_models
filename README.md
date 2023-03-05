@@ -8,7 +8,7 @@ This repository contains 3D models for Rhino Robots. They are free for any and a
 
 ![Blender .blend](arduino_mm6_arches_and_plug.blend), ![arches .stl](arduino_mm6_arches.stl), [YouTube video](https://www.youtube.com/watch?v=22EeDbbwtAY)
 
-Each arch (together with a plug from below) holds the motor ribbon cables into their sockets and provide a channel to route the ribbon cable to the back of the board. Print three for each MM6 PCB. No fasteners required.
+Each arch (together with a plug from below) holds the motor ribbon cables into their sockets and provides a channel to route the ribbon cable to the back of the board. Print three for each MM6 PCB. No fasteners required.
 
 ### Arduino MM6 Plug for XR-1
 

@@ -2,21 +2,45 @@
 
 This repository contains 3D models for Rhino Robots. They are free for any and all use.
 
-### Arduino MM6 Wire Clamp
+### Arduino MM6 Arches
 
-![Arduino MM6 wire clamp](arduino_mm6_wire_clamp.png)
+![Arduino MM6 arches](arduino_mm6_arches.png)
 
-![Blender .blend](arduino_mm6_wire_clamp.blend), ![plug .stl](arduino_mm6_wire_clamp_plug.stl), ![arches .stl](arduino_mm6_wire_clamp_arches.stl), [YouTube video](https://www.youtube.com/watch?v=22EeDbbwtAY)
+![Blender .blend](arduino_mm6_arches_and_plug.blend), ![arches .stl](arduino_mm6_arches.stl), [YouTube video](https://www.youtube.com/watch?v=22EeDbbwtAY)
 
-This clamp comes in two parts: A plug that holds the motor ribbon cables into their sockets and a set of arches that clamp this plug to the MM6 PCB. A channel runs between the plug and the arches to nicely route the ribbon cables out to the back of the board. Print three for each MM6 PCB. No fasteners required.
+Each arch (together with a plug from below) holds the motor ribbon cables into their sockets and provide a channel to route the ribbon cable to the back of the board. Print three for each MM6 PCB. No fasteners required.
 
-### XR2 Arduino Mount
+### Arduino MM6 Plug for XR-1
 
-![XR2 Arduino mount](xr2_arduino_mount.png)
+![Arduino MM6 plug for XR-1](arduino_mm6_plug_xr1.png)
 
-![Blender .blend](xr2_arduino_mount.blend), ![.stl](xr2_arduino_mount.stl), [YouTube video](https://www.youtube.com/watch?v=4HOXKobwqGA)
+![Blender .blend](arduino_mm6_arches_and_plug.blend), ![plug .stl](arduino_mm6_plug_xr1.stl)
 
-For the XR2 Arduino Mount, you'll want to replace the eight existing socket caps (the hex bolts) with slightly longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps are used with this design. I have no affiliation with Bolt Depot.
+This plug is sized for the shorter ribbon cable plugs on the XR-1. Print three for each MM6 PCB. No fasteners required.
+
+### Arduino MM6 Plug for models other than XR-1
+
+![Arduino MM6 plug not XR-1](arduino_mm6_plug_not_xr1.png)
+
+![Blender .blend](arduino_mm6_arches_and_plug.blend), ![plug .stl](arduino_mm6_plug_not_xr1.stl)
+
+This plug is sized for the longer ribbon cable plugs on models after the XR-1. Print three for each MM6 PCB. No fasteners required.
+
+### Arduino Base for XR-1
+
+![Arduino base for XR-1](arduino_base_xr1.png)
+
+![Blender .blend](arduino_base.blend), ![.stl](arduino_base_xr1.stl)
+
+For the XR-1's arduino base, you should replace four socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps work well.
+
+### Arduino Base for XR-2
+
+![Arduino base for XR-2](arduino_base_xr2.png)
+
+![Blender .blend](arduino_base.blend), ![.stl](arduino_base_not_xr1.stl), [YouTube video](https://www.youtube.com/watch?v=4HOXKobwqGA)
+
+For the XR-2's arduino base, you should replace six socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps work well.
 
 ## Rhino Robots
 

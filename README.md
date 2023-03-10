@@ -1,3 +1,11 @@
+## Rhino Robots
+
+[![Arduino Robot Control](https://user-images.githubusercontent.com/39977360/208218280-c486106f-3dde-4b0c-94fe-75af42436de9.gif)](https://www.youtube.com/watch?v=jSTG7T9-4lo&feature=youtu.be)
+
+Sandhu Machine Design Inc. of Champaign, Illinois produced a [series](http://www.theoldrobots.com/rhinoarm.html) of servo-controlled Rhino Robots in the 1980s. These robots were scaled down versions of their industrial counterparts (less expensive and less poweful). They were great for teaching and made their way into many instructional courses on robotics.
+
+Today you may find them at government auctions, on eBay, or collecting dust in a closet at your local university's engineering lab.
+
 # Rhino Robots 3D Models
 
 This repository contains 3D models for Rhino Robots. They are free for any and all use.
@@ -41,14 +49,6 @@ For the XR-1's arduino base, you should replace four socket caps (hex bolts) wit
 ![Blender .blend](arduino_base.blend), ![.stl](arduino_base_not_xr1.stl), [YouTube video](https://www.youtube.com/watch?v=4HOXKobwqGA)
 
 For the XR-2's arduino base, you should replace six socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps work well.
-
-## Rhino Robots
-
-[![Arduino Robot Control](https://user-images.githubusercontent.com/39977360/208218280-c486106f-3dde-4b0c-94fe-75af42436de9.gif)](https://www.youtube.com/watch?v=jSTG7T9-4lo&feature=youtu.be)
-
-Sandhu Machine Design Inc. of Champaign, Illinois produced a [series](http://www.theoldrobots.com/rhinoarm.html) of servo-controlled Rhino Robots in the 1980s. These robots were scaled down versions of their industrial counterparts (less expensive and less poweful). They were great for teaching and made their way into many instructional courses on robotics.
-
-Today you may find them at government auctions, on eBay, or collecting dust in a closet at your local university's engineering lab.
 
 ## Software 
 

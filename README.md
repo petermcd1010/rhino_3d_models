@@ -46,9 +46,19 @@ For the XR-1's arduino base, you should replace four socket caps (hex bolts) wit
 
 ![Arduino base for XR-2](arduino_base_xr2.png)
 
-![Blender .blend](arduino_base.blend), ![.stl](arduino_base_not_xr1.stl), [YouTube video](https://www.youtube.com/watch?v=4HOXKobwqGA)
+![Blender .blend](arduino_base.blend), ![.stl](arduino_base_xr2.stl), [YouTube video](https://www.youtube.com/watch?v=4HOXKobwqGA)
 
 For the XR-2's arduino base, you should replace six socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps work well.
+
+### Arduino Base for XR-4
+
+![Arduino base for XR-4](arduino_base_xr4.png)
+
+![Blender .blend](arduino_base.blend), ![.stl](arduino_base_xr4.stl)
+
+For the XR-4's arduino base, you should replace five socket caps (hex bolts) with longer ones.
+For the top left socket cap, you can use a Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps.
+For the other four, you can use Bolt Depot part number 22757 stainless steel 18-8 black oxide finish, #10-24 x 5/8" socket caps.
 
 ## Software 
 

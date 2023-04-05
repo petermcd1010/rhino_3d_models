@@ -53,7 +53,7 @@ For the XR-2's arduino base, you should replace six socket caps (hex bolts) with
 ### Arduino Base for SCARA Arm
 ![Arduino base for SCARA Arm](arduino_base_scara.png)
 
-![Blender .blend](arduino_base.blend), ![.stl](arduino_base_scara.stl) [YouTube video](https://www.youtube.com/watch?v=ZgXrVDasyXI)
+![Blender .blend](arduino_base.blend), ![.stl](arduino_base_scara.stl), [YouTube video](https://www.youtube.com/watch?v=ZgXrVDasyXI)
 
 The geometry of the SCARA Arm's base required printing with 100% infill and tree supports.
 

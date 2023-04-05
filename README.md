@@ -50,6 +50,13 @@ For the XR-1's arduino base, you should replace four socket caps (hex bolts) wit
 
 For the XR-2's arduino base, you should replace six socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps work well.
 
+### Arduino Base for SCARA Arm
+![Arduino base for SCARA Arm](arduino_base_scara.png)
+
+![Blender .blend](arduino_base.blend), ![.stl](arduino_base_scara.stl) [YouTube video](https://www.youtube.com/watch?v=ZgXrVDasyXI)
+
+The geometry of the SCARA Arm's base required printing with 100% infill and tree supports.
+
 ### Arduino Base for XR-4
 
 ![Arduino base for XR-4](arduino_base_xr4.png)

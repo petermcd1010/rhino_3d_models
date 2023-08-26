@@ -18,6 +18,10 @@ These 3D-printed Raspberry Pi 4 enclosures fit a Raspberry Pi 4 with a PoE or Po
 
 Also print the four Raspberry Pi 4 Spacer Pins below and insert them between the Raspberry Pi 4 and the hat. These pins provide stability to the boards and also lock them into the enclosure once it's closed.
 
+![Raspberry Pi 4 base inset nuts](rpi4_base_inset_nuts.png)
+
+To insert the hexagonal M3 nuts into the base, do not try to press them in by hand. Instead, slide an M3 screw through from the other side, attach the nut, then tighten the screw to pull the nut into the hole.
+
 ### Raspberry Pi 4 base for XR-1
 
 ![Raspberry Pi 4 base for XR-1](rpi4_base_xr1.png)
@@ -42,6 +46,8 @@ For the XR-2's RPi4 base, replace the two #6-32x3/8” fasteners along bottom pl
 ### Raspberry Pi 4 base for XR-2 with Google Coral USB mount
 
 ![Raspberry Pi 4 base with TPU for XR-2](rpi4_base_xr2_with_tpu.png)
+![Raspberry Pi 4 base with TPU for XR-2 printed](rpi4_base_xr2_with_tpu_printed.png)
+![Raspberry Pi 4 base with TPU for XR-2 mounted](rpi4_base_xr2_mounted.png)
 ![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr2_with_tpu.stl)
 
 Follow the same instructions as the mount without the TPU, but insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.

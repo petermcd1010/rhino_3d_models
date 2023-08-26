@@ -13,6 +13,8 @@ Today you may find them at government auctions, on eBay, or collecting dust in a
 ### Raspberry Pi 4 with PoE or PoE+ Hat
 
 ![Raspberry Pi 4 and hat stacked](rpi4_hat_stacked.png)
+![Raspberry Pi 4 base with TPU for XR-2 printed](rpi4_base_xr2_with_tpu_printed.png)
+![Raspberry Pi 4 base with TPU for XR-2 mounted](rpi4_base_xr2_mounted.png)
 
 These 3D-printed Raspberry Pi 4 enclosures fit a Raspberry Pi 4 with a PoE or PoE+ hat. By default, the hats do not make the GPIO pins accessible. To address this, these designs require you to sandwich two extra tall 40-pin and 4-pin header blocks between the Raspberry Pi and the hat. You can purchase the "4 & 40 Pin Extra Tall Header (Push Fit Version) - POE HAT Set" from PiShop.us. You will need to clip the 4-pin header pins for the PoE+ hat to the correct length (I guessed and was lucky). The older PoE hat does not require clipping.
 
@@ -46,8 +48,6 @@ For the XR-2's RPi4 base, replace the two #6-32x3/8” fasteners along bottom pl
 ### Raspberry Pi 4 base for XR-2 with Google Coral USB mount
 
 ![Raspberry Pi 4 base with TPU for XR-2](rpi4_base_xr2_with_tpu.png)
-![Raspberry Pi 4 base with TPU for XR-2 printed](rpi4_base_xr2_with_tpu_printed.png)
-![Raspberry Pi 4 base with TPU for XR-2 mounted](rpi4_base_xr2_mounted.png)
 ![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr2_with_tpu.stl)
 
 Follow the same instructions as the mount without the TPU, but insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.

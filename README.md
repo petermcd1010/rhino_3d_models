@@ -10,65 +10,69 @@ Sandhu Machine Design Inc. of Champaign, Illinois produced a [series](http://www
 
 Today you may find them at government auctions, on eBay, or collecting dust in a closet at your local university's engineering lab.
 
-### Raspberry Pi 4 with PoE Hat
+### Raspberry Pi 4 with PoE or PoE+ Hat
 
 ![Raspberry Pi 4 and hat stacked](rpi4_hat_stacked.png)
 
-These 3D-printed Raspberry Pi 4 enclosures fit a Raspberry Pi 4 with a PoE or PoE+. By default, the hats do not make the GPIO pins accessible. To address this, these designs require you to sandwich two extra tall 40-pin and 4-pin header blocks between the Raspberry Pi and the hat. You can purchase the "4 & 40 Pin Extra Tall Header (Push Fit Version) - POE HAT Set" from PiShop.us. You will need to clip the 4-pin header pins for the PoE+ hat to the correct length (I guessed and was lucky). The older PoE hat does not require clipping.
+These 3D-printed Raspberry Pi 4 enclosures fit a Raspberry Pi 4 with a PoE or PoE+ hat. By default, the hats do not make the GPIO pins accessible. To address this, these designs require you to sandwich two extra tall 40-pin and 4-pin header blocks between the Raspberry Pi and the hat. You can purchase the "4 & 40 Pin Extra Tall Header (Push Fit Version) - POE HAT Set" from PiShop.us. You will need to clip the 4-pin header pins for the PoE+ hat to the correct length (I guessed and was lucky). The older PoE hat does not require clipping.
 
 Also print the four Raspberry Pi 4 Spacer Pins below and insert them between the Raspberry Pi 4 and the hat. These pins provide stability to the boards and also lock them into the enclosure once it's closed.
 
 ### Raspberry Pi 4 base for XR-1
 
 ![Raspberry Pi 4 base for XR-1](rpi4_base_xr1.png)
-![Blender .blend](rpi4_base.blend), ![.stl)(rpi4_base_xr1.stl)
+![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr1.stl)
 
 For the XR-1's RPi4 base, replace the two #6-32x3/8” fasteners along bottom plate of the robot shoulder with longer ones. Bolt Depot 22746 stainless steel 18-8 black oxide finish #6-32x1/2" socket caps work well. Also replace the #6-32x1/2” fastener located at center of the XR-1 shoulder joint with a #6-32x3/4” fastener (Bolt Depot 22748). For best strength, place a steel washer (Bolt Depot 22027) between the top of the fastener and the top of the printed plastic mount for additional strength.
 
 ### Raspberry Pi 4 base for XR-1 with Google Coral USB TPU mount
 
 ![Raspberry Pi 4 base with TPU for XR-1](rpi4_base_xr1_with_tpu.png)
-![Blender .blend](rpi4_base.blend), ![.stl)(rpi4_base_xr1_with_tpu.stl)
+![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr1_with_tpu.stl)
 
 Follow the same instructions as the mount without the TPU, but insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.
 
 ### Raspberry Pi 4 base for XR-2
 
 ![Raspberry Pi 4 base for XR-2](rpi4_base_xr2.png)
-![Blender .blend](rpi4_base.blend), ![.stl)(rpi4_base_xr2.stl)
+![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr2.stl)
 
 For the XR-2's RPi4 base, replace the two #6-32x3/8” fasteners along bottom plate of the robot shoulder with longer ones. Bolt Depot 22746 stainless steel 18-8 black oxide finish #6-32x1/2" socket caps work well. Also replace the #10-24x3/8” fastener located at the top left of the enclosure base with a #10-24x5/8” fastener (Bolt Depot 22757).
 
 ### Raspberry Pi 4 base for XR-2 with Google Coral USB mount
 
 ![Raspberry Pi 4 base with TPU for XR-2](rpi4_base_xr2_with_tpu.png)
-![Blender .blend](rpi4_base.blend), ![.stl)(rpi4_base_xr2_with_tpu.stl)
+![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr2_with_tpu.stl)
 
 Follow the same instructions as the mount without the TPU, but insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.
 
 ### Raspberry Pi Base (Plain)
 
 ![Raspberry Pi 4 base plain](rpi4_base_plain.png)
-![Blender .blend](rpi4_base.blend), ![.stl)(rpi4_base_plain.stl)
+![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_plain.stl)
 
 This base without Rhino Robot mount points is provided here for reference.
 
 ### Raspberry Pi 4 Spacer Pins
 
 ![Raspberry Pi 4 spacer pins](rpi4_spacer_pins.png)
-![Blender .blend](rpi4_base.blend), ![.stl)(rpi4_spacer_pins.stl)
+![Blender .blend](rpi4_spacer_pins.blend), ![.stl](rpi4_spacer_pins.stl)
 
 Print one set of four spacer pins for each RPi 4. Sandwich them between the RPi 4's base PCB and the PoE or PoE+ hat's PCB. The pins on the end of the spacer lock the PCBs into the base and top of the Raspberry Pi 4 enclosure.
 
-### Raspberry Pi 4 PoE and PoE+ Hat Top
+### Raspberry Pi 4 PoE Hat Top
 
 ![Raspberry Pi 4 PoE top](rpi4_poe_hat_top.png)
-![Blender .blend](rpi4_top.blend), ![.stl)(rpi4_poe_hat_top.stl)
+![Blender .blend](rpi4_top.blend), ![.stl](rpi4_poe_hat_top.stl)
+
+Fasten the top to the base with four M3x16 fasteners.
+
+### Raspberry Pi 4 PoE+ Hat Top
 
 ![Raspberry Pi 4 PoE+ top](rpi4_poe+_hat_top.png)
-![Blender .blend](rpi4_top.blend), ![.stl)(rpi4_poe+_hat_top.stl)
+![Blender .blend](rpi4_top.blend), ![.stl](rpi4_poe+_hat_top.stl)
 
-These tops are sized to accept the POE or POE+ hat, respectively. Fasten the top to the base with four M3x16 fasteners.
+Fasten the top to the base with four M3x16 fasteners.
 
 ### Arduino Base for XR-1
 

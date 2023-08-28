@@ -12,9 +12,8 @@ Today you may find them at government auctions, on eBay, or collecting dust in a
 
 ### Raspberry Pi 4 with PoE or PoE+ Hat
 
-![Raspberry Pi 4 and hat stacked](rpi4_hat_stacked.png)
-![Raspberry Pi 4 base with TPU for XR-2 printed](rpi4_base_xr2_with_tpu_printed.png)
 ![Raspberry Pi 4 base with TPU for XR-2 mounted](rpi4_base_xr2_mounted.png)
+![Raspberry Pi 4 and hat stacked](rpi4_hat_stacked.png)
 
 These 3D-printed Raspberry Pi 4 enclosures fit a Raspberry Pi 4 with a PoE or PoE+ hat. By default, the hats do not make the GPIO pins accessible. To address this, these designs require you to sandwich two extra tall 40-pin and 4-pin header blocks between the Raspberry Pi and the hat. You can purchase the "4 & 40 Pin Extra Tall Header (Push Fit Version) - POE HAT Set" from PiShop.us. You will need to clip the 4-pin header pins for the PoE+ hat to the correct length (I guessed and was lucky). The older PoE hat does not require clipping.
 
@@ -29,7 +28,7 @@ To insert the hexagonal M3 nuts into the base, do not try to press them in by ha
 ![Raspberry Pi 4 base for XR-1](rpi4_base_xr1.png)
 ![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr1.stl)
 
-For the XR-1's RPi4 base, replace the two #6-32x3/8” fasteners along bottom plate of the robot shoulder with longer ones. Bolt Depot 22746 stainless steel 18-8 black oxide finish #6-32x1/2" socket caps work well. Also replace the #6-32x1/2” fastener located at center of the XR-1 shoulder joint with a #6-32x3/4” fastener (Bolt Depot 22748). For best strength, place a steel washer (Bolt Depot 22027) between the top of the fastener and the top of the printed plastic mount for additional strength.
+For the XR-1's RPi4 base, replace the two #6-32x3/8” fasteners along bottom plate of the robot shoulder with longer ones. Bolt Depot 22746 stainless steel 18-8 black oxide finish #6-32x1/2" socket caps work well. Also replace the #6-32x1/2” fastener located at center of the XR-1 shoulder joint with a #6-32x3/4” fastener (Bolt Depot 22748). For best strength, place a steel washer (Bolt Depot 22027) between the top of the fastener and the top of the printed plastic mount.
 
 ### Raspberry Pi 4 base for XR-1 with Google Coral USB TPU mount
 

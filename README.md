@@ -81,21 +81,25 @@ Fasten the top to the base with four M3x16 fasteners.
 
 ### Intel Realsense Depth Camera Mount ###
 
-Assembly requires one #6 hexagonal nut (Bolt Depot 22012), one #6-32x1/2" (Bolt Depot 22746) fastener, one M3 hexagonal nut, two M3x6 fasteners, and one M3x12 fastener. 
-
 ![Realsense Rhino mount plate and stem for XR-2 and XR-4](realsense_rhino_mount_plate_and_stem_xr2_xr4.png)
 ![Realsense Rhino mount plate for XR-2 and XR-4](realsense_rhino_mount_plate_xr2_xr4.png)
 ![Realsense stem](realsense_stem.png)
 
-![Blender .blend](realsense.blend), ![realsense_rhino_mount_plate_xr2_xr4.stl](realsense_rhino_mount_plate_xr2_xr4.stl), ![realsense_stem.st](realsense_stem.stl)
+![Blender .blend](realsense.blend), ![realsense_rhino_mount_plate_xr2_xr4.stl](realsense_rhino_mount_plate_xr2_xr4.stl), ![realsense_stem.stl](realsense_stem.stl)
+
+Assembly requires one #6 hexagonal nut (Bolt Depot 22012), one #6-32x1/2" fastener (Bolt Depot 22746), one M3 hexagonal nut, two M3x6 fasteners, and one M3x12 fastener. 
 
 Print using standard settings (15% gyroid infill).
+
 Before attaching the Realsense Rhino Mount Plate to the robot, install the #6 hexagonal nut in the bottom of the 3D-printed mount. Do not try to press the nut into the hexagonal hole by hand. Instead, slide the #6-32x1/2" fastener through from the other side of the mount, attach it to the hexagonal nut, then tighten the fastener to pull the nut into the hexagonal hole. The #6 nut should now be held in place by friction. Remove the #6-32x1/2" fastener. 
+
 Before attaching the Intel Realsense camera to the Realsense Stem, install an M3 hexagonal nut into the front of the 3D-printed stem. Do not try to press the nut into the hexagonal hole by hand. Instead, slide the M3x12 fastener through from the other side, attach it to the hexagonal nut, then tighten the fastener to pull the nut into the hexagonal hole. The M3 nut should now be held in place by friction. Remove the M3x12 fastener. 
 Attach the Intel Realsense camera to the Realsense Stem with the two M3x6 fasteners. Set the Realsense Stem aside until the Realsense Rhino Mount Plate has been attached to the robot.
-To attach the Realsense Rhino Mount plate to the robot, first remove the A-motor from the robot’s hand. This is the motor used to open and close the gripper. 
+
+To attach the Realsense Rhino Mount plate to the robot, first remove the A-motor from the robot’s hand (this is the motor used to open and close the gripper). 
 Next press the Realsense Rhino Mount plate into the metal plate on the front of the robot's wrist. It is a tight fit that may take some patience. 
-Once the Realsense Rhino Mount plate has been installed, replace the #6-32x1/4” fastener in the center of the metal plate on the front wrist with the longer #6-32x1/2” fastener. This fastener will be long enough to go through the aluminum wrist plate to fasten into the #6 hexagonal nut you installed into the bottom of the plate above.
+Once the Realsense Rhino Mount plate has been installed, replace the #6-32x1/4” fastener in the center of the metal plate on the front wrist with the longer #6-32x1/2” fastener. This fastener will be long enough to go through the aluminum wrist plate to fasten into the #6 hexagonal nut you installed into the bottom of the Realsense Rhino Mount plate.
+
 Once the above steps are complete, slide the Realsense Stem onto the Realsense Rhino Mount Plate. Screw an M3x12 fastener through the hole in the Realsense Stem on the back side of the camera mount into the M3 hex nut you installed into the back of the vertical stem protruding from the Realsense Mount Plate that you installed above.
 
 ### Arduino Base for XR-1

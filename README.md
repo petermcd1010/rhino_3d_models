@@ -12,7 +12,7 @@ Today you may find them at government auctions, on eBay, or collecting dust in a
 
 ### Raspberry Pi 4 with PoE or PoE+ Hat
 
-![Raspberry Pi 4 base with TPU for XR-2 mounted](rpi4_base_xr2_mounted.png)
+![Raspberry Pi 4 base with TPU for XR-2 and XR-3 mounted](rpi4_base_xr2_xr3_mounted.png)
 ![Raspberry Pi 4 and hat stacked](rpi4_hat_stacked.png)
 
 These 3D-printed Raspberry Pi 4 enclosures fit a Raspberry Pi 4 with a PoE or PoE+ hat. By default, the hats do not make the GPIO pins accessible. To address this, these designs require you to sandwich two extra tall 40-pin and 4-pin header blocks between the Raspberry Pi and the hat. You can purchase the "4 & 40 Pin Extra Tall Header (Push Fit Version) - POE HAT Set" from PiShop.us. You will need to clip the 4-pin header pins for the PoE+ hat to the correct length (I guessed and was lucky). The older PoE hat does not require clipping.
@@ -37,17 +37,17 @@ For the XR-1's RPi4 base, replace the two #6-32x3/8” fasteners along bottom pl
 
 Follow the same instructions as the mount without the TPU, but insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.
 
-### Raspberry Pi 4 base for XR-2
+### Raspberry Pi 4 base for XR-2 and XR-3
 
-![Raspberry Pi 4 base for XR-2](rpi4_base_xr2.png)
-![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr2.stl)
+![Raspberry Pi 4 base for XR-2 and XR-3](rpi4_base_xr2_xr3.png)
+![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr2_xr3.stl)
 
-For the XR-2's RPi4 base, replace the two #6-32x3/8” fasteners along bottom plate of the robot shoulder with longer ones. Bolt Depot 22746 stainless steel 18-8 black oxide finish #6-32x1/2" socket caps work well. Also replace the #10-24x3/8” fastener located at the top left of the enclosure base with a #10-24x5/8” fastener (Bolt Depot 22757).
+For the XR-2 and XR-3's RPi4 base, replace the two #6-32x3/8” fasteners along bottom plate of the robot shoulder with longer ones. Bolt Depot 22746 stainless steel 18-8 black oxide finish #6-32x1/2" socket caps work well. Also replace the #10-24x3/8” fastener located at the top left of the enclosure base with a #10-24x5/8” fastener (Bolt Depot 22757).
 
 ### Raspberry Pi 4 base for XR-2 with Google Coral USB mount
 
-![Raspberry Pi 4 base with TPU for XR-2](rpi4_base_xr2_with_tpu.png)
-![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr2_with_tpu.stl)
+![Raspberry Pi 4 base with TPU for XR-2 and XR-3](rpi4_base_xr2_xr3_with_tpu.png)
+![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr2_xr3_with_tpu.stl)
 
 Follow the same instructions as the mount without the TPU, but insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.
 
@@ -112,11 +112,11 @@ For the XR-1's arduino base, you should replace four socket caps (hex bolts) wit
 
 ### Arduino Base for XR-2
 
-![Arduino base for XR-2](arduino_base_xr2.png)
+![Arduino base for XR-2 and XR-3](arduino_base_xr2_xr3.png)
 
 ![Blender .blend](arduino_base.blend), ![.stl](arduino_base_xr2.stl), [YouTube video](https://www.youtube.com/watch?v=4HOXKobwqGA)
 
-For the XR-2's arduino base, you should replace six socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps work well.
+For the XR-2's arduino base, you should replace eight socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps work well.
 
 ### Arduino Base for SCARA Arm
 ![Arduino base for SCARA Arm](arduino_base_scara.png)

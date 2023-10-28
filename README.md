@@ -81,11 +81,11 @@ Fasten the top to the base with four M3x16 fasteners.
 
 ### Intel Realsense Depth Camera Mount ###
 
-![Realsense Rhino mount plate and stem for XR-2 and XR-4](realsense_rhino_mount_plate_and_stem_xr2_xr4.png)
-![Realsense Rhino mount plate for XR-2 and XR-4](realsense_rhino_mount_plate_xr2_xr4.png)
+![Realsense Rhino mount plate and stem for XR-2, XR-3, and XR-4](realsense_rhino_mount_plate_and_stem_xr2_xr3_xr4.png)
+![Realsense Rhino mount plate for XR-2, XR-3, and XR-4](realsense_rhino_mount_plate_xr2_xr3_xr4.png)
 ![Realsense stem](realsense_stem.png)
 
-![Blender .blend](realsense.blend), ![realsense_rhino_mount_plate_xr2_xr4.stl](realsense_rhino_mount_plate_xr2_xr4.stl), ![realsense_stem.stl](realsense_stem.stl)
+![Blender .blend](realsense.blend), ![realsense_rhino_mount_plate_xr2_xr3_xr4.stl](realsense_rhino_mount_plate_xr2_xr3_xr4.stl), ![realsense_stem.stl](realsense_stem.stl)
 
 Assembly requires one #6 hexagonal nut (Bolt Depot 22012), one #6-32x1/2" fastener (Bolt Depot 22746), one M3 hexagonal nut, two M3x6 fasteners, and one M3x12 fastener. 
 

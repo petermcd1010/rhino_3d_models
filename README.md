@@ -79,7 +79,7 @@ Fasten the top to the base with four M3x16 fasteners.
 
 Fasten the top to the base with four M3x16 fasteners.
 
-### Intel Realsense Depth Camera Mount ###
+### Intel Realsense Depth Camera Mount for XR-2, XR-3, and XR-4 ###
 
 ![Realsense Rhino mount plate and stem for XR-2, XR-3, and XR-4](realsense_rhino_mount_plate_and_stem_xr2_xr3_xr4.png)
 ![Realsense Rhino mount plate for XR-2, XR-3, and XR-4](realsense_rhino_mount_plate_xr2_xr3_xr4.png)

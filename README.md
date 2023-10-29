@@ -56,7 +56,7 @@ Follow the same instructions as the mount without the TPU, but insert four addit
 ![Raspberry Pi 4 base with TPU for XR-4](rpi4_base_xr4_with_tpu.png)
 ![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr4_with_tpu.stl)
 
-Follow the same instructions as the mount without the TPU, but insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.
+Replace the three #6 fasteners (two along the bottom, and one near the TPU) with #6-32x3/8" fasteners (Bolt Depto 22745 work well). Also insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.
 
 ### Raspberry Pi Base (Plain)
 

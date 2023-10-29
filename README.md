@@ -44,10 +44,17 @@ Follow the same instructions as the mount without the TPU, but insert four addit
 
 For the XR-2 and XR-3's RPi4 base, replace the two #6-32x3/8” fasteners along bottom plate of the robot shoulder with longer ones. Bolt Depot 22746 stainless steel 18-8 black oxide finish #6-32x1/2" socket caps work well. Also replace the #10-24x3/8” fastener located at the top left of the enclosure base with a #10-24x5/8” fastener (Bolt Depot 22757).
 
-### Raspberry Pi 4 base for XR-2 with Google Coral USB mount
+### Raspberry Pi 4 base for XR-2 and XR-3 with Google Coral USB mount
 
 ![Raspberry Pi 4 base with TPU for XR-2 and XR-3](rpi4_base_xr2_xr3_with_tpu.png)
 ![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr2_xr3_with_tpu.stl)
+
+Follow the same instructions as the mount without the TPU, but insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.
+
+### Raspberry Pi 4 base for XR-4 with Google Coral USB mount
+
+![Raspberry Pi 4 base with TPU for XR-4](rpi4_base_xr4_with_tpu.png)
+![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_xr4_with_tpu.stl)
 
 Follow the same instructions as the mount without the TPU, but insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.
 

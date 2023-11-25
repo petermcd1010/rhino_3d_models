@@ -86,6 +86,26 @@ Fasten the top to the base with four M3x16 fasteners.
 
 Fasten the top to the base with four M3x16 fasteners.
 
+### Intel Realsense Depth Camera Mount for XR-1 ###
+
+![Realsense Rhino mount plate and stem for XR-1](realsense_rhino_mount_plate_and_stem_xr1.png)
+![Realsense Rhino mount plate for XR-1](realsense_rhino_mount_plate_xr1.png)
+![Realsense Rhino mount plate for XR-1 spacer plate](realsense_rhino_mount_plate_xr1_spacer_plate.png)
+![Realsense stem](realsense_stem.png)
+
+Assembly requires one M3 hexagonal nut, four #4-40 x 7/16" fasteners (Bolt Depot 7875 work well), two M3x6 fasteners, and one M3x12 fastener. 
+
+Print using standard settings (15% gyroid infill).
+
+Before attaching the Intel Realsense camera to the Realsense Stem, install an M3 hexagonal nut into the front of the 3D-printed stem. Do not try to press the nut into the hexagonal hole by hand. Instead, slide the M3x12 fastener through from the other side, attach it to the hexagonal nut, then tighten the fastener to pull the nut into the hexagonal hole. The M3 nut should now be held in place by friction. Remove the M3x12 fastener. 
+Attach the Intel Realsense camera to the Realsense Stem with the two M3x6 fasteners. Set the Realsense Stem aside until the Realsense Rhino Mount Plate has been attached to the robot.
+
+To attach the Realsense Rhino Mount plate to the robot, press the Realsense Rhino Mount plate into the metal plate on the front of the robot's wrist with the spacer plate behind it (see photo). If the spacer plate is loose, consider applying a layer of adhesive between the spacer plate and the mount plate. Once the Realsense Rhino Mount plate has been mounted, replace the four #4-40x1/4” fasteners with four #4-40 x 7/16" fasteners.
+
+Once the above steps are complete, slide the Realsense Stem onto the Realsense Rhino Mount Plate. Screw an M3x12 fastener through the hole in the Realsense Stem on the back side of the camera mount into the M3 hex nut you installed into the back of the vertical stem protruding from the Realsense Mount Plate that you installed above.
+
+![Blender .blend](realsense.blend), ![realsense_rhino_mount_plate_xr1.stl](realsense_rhino_mount_plate_xr1.stl), ![realsense_rhino_mount_plate_xr1_spacer_plate.stl](realsense_rhino_mount_plate_xr1_spacer_plate.stl), ![realsense_stem.stl](realsense_stem.stl)
+
 ### Intel Realsense Depth Camera Mount for XR-2, XR-3, and XR-4 ###
 
 ![Realsense Rhino mount plate and stem for XR-2, XR-3, and XR-4](realsense_rhino_mount_plate_and_stem_xr2_xr3_xr4.png)

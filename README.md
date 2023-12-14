@@ -93,16 +93,14 @@ Fasten the top to the base with four M3x16 fasteners.
 ![Realsense Rhino mount plate for XR-1 spacer plate](realsense_rhino_mount_plate_xr1_spacer_plate.png)
 ![Realsense stem](realsense_stem.png)
 
-Assembly requires one M3 hexagonal nut, four #4-40 x 7/16" fasteners (Bolt Depot 7875 work well), two M3x6 fasteners, and one M3x12 fastener. 
-
-Print using standard settings (15% gyroid infill).
+Assembly requires one M3 hexagonal nut, four #4-40x7/16" fasteners (Bolt Depot 7875 work well), two M3x6 fasteners, and one M3x12 fastener.
 
 Before attaching the Intel Realsense camera to the Realsense Stem, install an M3 hexagonal nut into the front of the 3D-printed stem. Do not try to press the nut into the hexagonal hole by hand. Instead, slide the M3x12 fastener through from the other side, attach it to the hexagonal nut, then tighten the fastener to pull the nut into the hexagonal hole. The M3 nut should now be held in place by friction. Remove the M3x12 fastener. 
 Attach the Intel Realsense camera to the Realsense Stem with the two M3x6 fasteners. Set the Realsense Stem aside until the Realsense Rhino Mount Plate has been attached to the robot.
 
-To attach the Realsense Rhino Mount plate to the robot, press the Realsense Rhino Mount plate into the metal plate on the front of the robot's wrist with the spacer plate behind it (see photo). If the spacer plate is loose, consider applying a layer of adhesive between the spacer plate and the mount plate. Once the Realsense Rhino Mount plate has been mounted, replace the four #4-40x1/4” fasteners with four #4-40 x 7/16" fasteners.
+To attach the Realsense Rhino Mount plate to the robot, press the Realsense Rhino Mount plate into the metal plate on the front of the robot's wrist with the spacer plate behind it (see photo). If the spacer plate is loose, consider applying a layer of adhesive between the spacer plate and the mount plate. Once the Realsense Rhino Mount plate has been mounted, replace the four #4-40x1/4” fasteners with four #4-40x7/16" fasteners.
 
-Once the above steps are complete, slide the Realsense Stem onto the Realsense Rhino Mount Plate. Screw an M3x12 fastener through the hole in the Realsense Stem on the back side of the camera mount into the M3 hex nut you installed into the back of the vertical stem protruding from the Realsense Mount Plate that you installed above.
+Once the above steps are complete, slide the Realsense Stem onto the Realsense Rhino Mount Plate. Screw the M3x12 fastener through the hole in the Realsense Stem on the back side of the camera mount into the M3 hex nut you installed into the back of the vertical stem protruding from the Realsense Mount Plate that you installed above.
 
 ![Blender .blend](realsense.blend), ![realsense_rhino_mount_plate_xr1.stl](realsense_rhino_mount_plate_xr1.stl), ![realsense_rhino_mount_plate_xr1_spacer_plate.stl](realsense_rhino_mount_plate_xr1_spacer_plate.stl), ![realsense_stem.stl](realsense_stem.stl)
 
@@ -116,8 +114,6 @@ Once the above steps are complete, slide the Realsense Stem onto the Realsense R
 
 Assembly requires one #6 hexagonal nut (Bolt Depot 22012), one #6-32x1/2" fastener (Bolt Depot 22746), one M3 hexagonal nut, two M3x6 fasteners, and one M3x12 fastener. 
 
-Print using standard settings (15% gyroid infill).
-
 Before attaching the Realsense Rhino Mount Plate to the robot, install the #6 hexagonal nut in the bottom of the 3D-printed mount. Do not try to press the nut into the hexagonal hole by hand. Instead, slide the #6-32x1/2" fastener through from the other side of the mount, attach it to the hexagonal nut, then tighten the fastener to pull the nut into the hexagonal hole. The #6 nut should now be held in place by friction. Remove the #6-32x1/2" fastener. 
 
 Before attaching the Intel Realsense camera to the Realsense Stem, install an M3 hexagonal nut into the front of the 3D-printed stem. Do not try to press the nut into the hexagonal hole by hand. Instead, slide the M3x12 fastener through from the other side, attach it to the hexagonal nut, then tighten the fastener to pull the nut into the hexagonal hole. The M3 nut should now be held in place by friction. Remove the M3x12 fastener. 
@@ -129,13 +125,32 @@ Once the Realsense Rhino Mount plate has been installed, replace the #6-32x1/4�
 
 Once the above steps are complete, slide the Realsense Stem onto the Realsense Rhino Mount Plate. Screw an M3x12 fastener through the hole in the Realsense Stem on the back side of the camera mount into the M3 hex nut you installed into the back of the vertical stem protruding from the Realsense Mount Plate that you installed above.
 
+### Intel Realsense Depth Camera Mount for SCARA Arm ###
+
+![Realsense Rhino mount plate and stem for SCARA 1](realsense_rhino_mount_plate_and_stem_scara_1.png)
+![Realsense Rhino mount plate and stem for SCARA 2](realsense_rhino_mount_plate_and_stem_scara_2.png)
+![Realsense Rhino mount plate for SCARA](realsense_rhino_mount_plate_scara.png)
+![Realsense stem](realsense_stem.png)
+
+Assembly requires one M3 hexagonal nut, two #6-32x1" fasteners (Bolt Depot 22749 work well), two M3x6 fasteners, and one M3x12 fastener.
+
+Before attaching the Intel Realsense camera to the Realsense Stem, install an M3 hexagonal nut into the front of the 3D-printed stem. Do not try to press the nut into the hexagonal hole by hand. Instead, slide the M3x12 fastener through from the other side, attach it to the hexagonal nut, then tighten the fastener to pull the nut into the hexagonal hole. The M3 nut should now be held in place by friction. Remove the M3x12 fastener.
+Attach the Intel Realsense camera to the Realsense Stem with the two M3x6 fasteners. Set the Realsense Stem aside until the Realsense Rhino Mount Plate has been attached to the robot.
+
+To attach the Realsense Rhino Mount plate to the robot, remove the two #6-32x5/8" fasteners holding the wrist switches in place and attach the mount plate above the switches with two #6-32x1" fasteners (see photo).
+
+Once the above steps are complete, slide the Realsense Stem onto the Realsense Rhino Mount Plate.
+Screw the M3x12 fastener through the hole in the Realsense Stem on the back side of the camera mount into the M3 hex nut you installed into the back of the vertical stem protruding from the Realsense Mount Plate that you installed above.
+
+![Blender .blend](realsense.blend), ![realsense_rhino_mount_plate_scara.stl](realsense_rhino_mount_plate_scara.stl), ![realsense_stem.stl](realsense_stem.stl)
+
 ### Arduino Base for XR-1
 
 ![Arduino base for XR-1](arduino_base_xr1.png)
 
 ![Blender .blend](arduino_base.blend), ![.stl](arduino_base_xr1.stl)
 
-For the XR-1's arduino base, you should replace four socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps work well.
+For the XR-1's arduino base, you should replace four socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32x1/2" socket caps work well.
 
 ### Arduino Base for XR-2 and XR-3
 
@@ -143,7 +158,7 @@ For the XR-1's arduino base, you should replace four socket caps (hex bolts) wit
 
 ![Blender .blend](arduino_base.blend), ![.stl](arduino_base_xr2.stl), [YouTube video](https://www.youtube.com/watch?v=4HOXKobwqGA)
 
-For the XR-2 and XR-3's arduino base, you should replace eight socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket caps work well.
+For the XR-2 and XR-3's arduino base, you should replace eight socket caps (hex bolts) with longer ones. Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32x1/2" socket caps work well.
 
 ### Arduino Base for SCARA Arm
 ![Arduino base for SCARA Arm](arduino_base_scara.png)
@@ -159,7 +174,7 @@ The geometry of the SCARA Arm's base required printing with 100% infill and tree
 ![Blender .blend](arduino_base.blend), ![.stl](arduino_base_xr4.stl)
 
 For the XR-4's arduino base, you should replace five socket caps (hex bolts) with longer ones.
-For the top left socket cap, you can use a Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32 x 1/2" socket cap.
+For the top left socket cap, you can use a Bolt Depot part number 22746 stainless steel 18-8 black oxide finish, #6-32x1/2" socket cap.
 For the other four, you can use Bolt Depot part number 22757 stainless steel 18-8 black oxide finish, #10-24 x 5/8" socket caps.
 
 ### Arduino MegaMotor6 Arches

@@ -58,6 +58,24 @@ Follow the same instructions as the mount without the TPU, but insert four addit
 
 Replace the three #6 fasteners (two along the bottom, and one near the TPU) with #6-32x3/8" fasteners (Bolt Depto 22745 work well). Also insert four additional M3 hex nuts into the back of the base below the TPU. Then fasten the TPU to the base with four M3x12 fasteners.
 
+### Raspberry Pi 4 base for SCARA arm with Google Coral USB mount
+
+![Raspberry Pi 4 base with TPU for SCARA arm](rpi4_base_scara_with_tpu.png)
+![Raspberry Pi 4 base with TPU for SCARA arm 2](rpi4_base_scara_with_tpu_2.png)
+![Blender .blend](rpi4_base.blend), ![.stl](rpi4_base_scara_with_tpu.stl)
+
+SCARA is an acronym for "Selective Compliance Assembly/Articulated Robot Arm" [Wikipedia](https://en.wikipedia.org/wiki/SCARA).
+
+This base slides onto the SCARA arm's vertical cylindrical base.
+It can be secured to the SCARA arm by drilling a 1/4" hole to match one of the mounting holes in the SCARA arm's vertical cylindrial base.
+The mounting fastener may be either 1/4"-20 theads-per-inch or 1/4"-28 threads per inch depending on the SCARA arm`s date of manufacture.
+
+To insert the hexagonal M3 nuts behind the Raspberry Pi base and TPU, do not try to press them in by hand. Instead, slide an M3 screw through from the other side, attach the nut, then tighten the screw to pull the nut into the hole.
+
+To insert four M3 hex nuts behind the TPU, use a tool to hold the nuts in place while you pull them into the base with a screw. Then fasten the TPU to the base with four M3x12 fasteners.
+
+After inserting four M3 hex nuts behind the Raspberry Pi base, fasten them to a Raspberry Pi top with four M3x16 fasteners.
+
 ### Raspberry Pi Base (Plain)
 
 ![Raspberry Pi 4 base plain](rpi4_base_plain.png)

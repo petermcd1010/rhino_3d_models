@@ -68,7 +68,7 @@ SCARA is an acronym for "Selective Compliance Assembly/Articulated Robot Arm" [W
 
 This base slides onto the SCARA arm's vertical cylindrical base.
 It can be secured to the SCARA arm by drilling a 1/4" hole to match one of the mounting holes in the SCARA arm's vertical cylindrial base.
-The mounting fastener may be either 1/4"-20 theads-per-inch or 1/4"-28 threads per inch depending on the SCARA arm`s date of manufacture.
+The mounting fastener may be either 1/4"-20 theads-per-inch or 1/4"-28 threads-per-inch depending on the SCARA arm`s date of manufacture.
 
 To insert the hexagonal M3 nuts behind the Raspberry Pi base and TPU, do not try to press them in by hand. Instead, slide an M3 screw through from the other side, attach the nut, then tighten the screw to pull the nut into the hole.
 
